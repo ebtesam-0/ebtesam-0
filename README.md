@@ -1,9 +1,11 @@
 # Hi, I'm Ebtesam 👋
 
-💻 Data Analyst | IT Graduate  
+💻 Aspiring Data Analyst | IT Graduate  
 
-I am passionate about data analysis and transforming data into meaningful insights.  
-I have experience in Python, SQL, Power BI, and Excel, and I enjoy working on real-world datasets.
+I’m passionate about analyzing data and turning complex information into clear, actionable insights.  
+I have hands-on experience with real-world datasets using Python, SQL, Power BI, and Excel.
+
+---
 
 ## 🛠️ Skills
 - Python (Pandas, NumPy)
@@ -11,11 +13,15 @@ I have experience in Python, SQL, Power BI, and Excel, and I enjoy working on re
 - Power BI
 - Excel
 
+---
+
 ## 📊 Featured Projects
-- COVID-19 Dashboard (Power BI)
-- Housing Market Analysis (Python)
-- SQL Data Analysis
-- Excel Data Analysis
+- 📈 COVID-19 Dashboard (Power BI)
+- 🏡 Housing Market Analysis (Python)
+- 🧮 SQL Data Analysis Projects
+- 📊 Excel Data Analysis
+
+---
 
 ## 📫 Contact
-- Email: ebtesamalqhtani91@gmail.com
+📧 ebtesamalqhtani91@gmail.com
