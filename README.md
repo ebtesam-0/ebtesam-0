@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ebtesam 👋
 
-<!--
-**ebtesam-0/ebtesam-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst | IT Graduate  
 
-Here are some ideas to get you started:
+I am passionate about data analysis and transforming data into meaningful insights.  
+I have experience in Python, SQL, Power BI, and Excel, and I enjoy working on real-world datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python (Pandas, NumPy)
+- SQL
+- Power BI
+- Excel
+
+## 📊 Featured Projects
+- COVID-19 Dashboard (Power BI)
+- Housing Market Analysis (Python)
+- SQL Data Analysis
+- Excel Data Analysis
+
+## 📫 Contact
+- Email: ebtesamalqhtani91@gmail.com
