@@ -16,8 +16,8 @@ I have hands-on experience with real-world datasets using Python, SQL, Power BI,
 ---
 
 ## 📊 Featured Projects
+- 🎧 Spotify Trends Analysis (Python)
 - 📈 COVID-19 Dashboard (Power BI)
-- 🏡 Housing Market Analysis (Python)
 - 🧮 SQL Data Analysis Projects
 - 📊 Excel Data Analysis
 
