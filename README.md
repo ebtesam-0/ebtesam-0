@@ -16,6 +16,7 @@ I have hands-on experience with real-world datasets using Python, SQL, Power BI,
 ---
 
 ## 📊 Featured Projects
+* 🦠 COVID-19 Dashboard
 * 💼 Power BI Sales Dashboard
 * 🎬 Disney vs Netflix Dashboard
 * 🚦 Traffic Data Analysis
@@ -25,7 +26,6 @@ I have hands-on experience with real-world datasets using Python, SQL, Power BI,
 * 🎓 Students Performance Analysis
 * 🗄️ SQL Cinema Analysis
 * 🎥 SQL Films Analysis
-* 🦠 COVID-19 Dashboard
 
 
 ---
