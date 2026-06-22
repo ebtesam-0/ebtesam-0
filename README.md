@@ -16,16 +16,16 @@ I have hands-on experience with real-world datasets using Python, SQL, Power BI,
 ---
 
 ## 📊 Featured Projects
-💼 Power BI Sales Dashboard
-🎬 Disney vs Netflix Dashboard (Power BI)
-🚦 Traffic Data Analysis (Python)
-🏠 Housing Data Analysis (Python)
-🎵 Spotify Trends Analysis (Python)
-📚 Amazon Books Analysis (Python)
-🎓 Students Performance Analysis (Python)
-🗄️ SQL Cinema Analysis
-🎥 SQL Films Analysis
-🦠 COVID-19 Dashboard (Power BI)
+* 💼 Power BI Sales Dashboard
+* 🎬 Disney vs Netflix Dashboard
+* 🚦 Traffic Data Analysis
+* 🏠 Housing Data Analysis
+* 🎵 Spotify Trends Analysis
+* 📚 Amazon Books Analysis
+* 🎓 Students Performance Analysis
+* 🗄️ SQL Cinema Analysis
+* 🎥 SQL Films Analysis
+* 🦠 COVID-19 Dashboard
 
 
 ---
